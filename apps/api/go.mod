@@ -3,9 +3,9 @@ module github.com/kkrishguptaa/whitestone-capital/apps/api
 go 1.24.2
 
 require (
-	entgo.io/ent v0.14.4
+	entgo.io/ent v0.14.5
 	github.com/goccy/go-json v0.10.5
-	github.com/gofiber/fiber/v3 v3.0.0-beta.5
+	github.com/gofiber/fiber/v3 v3.0.0-rc.1
 	github.com/google/uuid v1.6.0
 	github.com/lib/pq v1.10.9
 )
