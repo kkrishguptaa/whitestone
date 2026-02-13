@@ -25,7 +25,7 @@ services:
 
   postgres:
     container_name: whitestone-capital_postgres
-    image: postgres:latest@sha256:3bb77a07b9ce8b8de0fe6d9b063adf20b9cca1068a1bcdc054cac71a69ce0ca6
+    image: postgres:latest@sha256:b6b4d0b75c699a2c94dfc5a94fe09f38630f3b67ab0e1653ede1b7ac8e13c197
     restart: always
 
     environment:
