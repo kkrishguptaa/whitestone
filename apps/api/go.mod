@@ -4,10 +4,10 @@ go 1.25.0
 
 require (
 	entgo.io/ent v0.14.5
-	github.com/goccy/go-json v0.10.5
+	github.com/goccy/go-json v0.10.6
 	github.com/gofiber/fiber/v3 v3.0.0
 	github.com/google/uuid v1.6.0
-	github.com/lib/pq v1.11.1
+	github.com/lib/pq v1.11.2
 )
 
 require (
